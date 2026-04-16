@@ -10,7 +10,7 @@ Este proyecto consiste en el diseño y creación de una base de datos relacional
 ## 📐 Diseño del Modelo
 A continuación se presenta el modelo relacional diseñado para el sistema:
 
-![Modelo Relacional](./modelo_relacional.emf)
+![Modelo Relacional](./modelo_relacional.png)
 
 ## 🚀 Funcionalidades Clave
 * **Normalización:** Estructura optimizada hasta la 3ra Forma Normal (3FN).
